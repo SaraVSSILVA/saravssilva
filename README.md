@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://64.media.tumblr.com/31756ec986051798604d9697fa0e7d99/tumblr_pxuqjiK9Hn1sftgzko1_400.gifv" width="50px">
+</div>
+
 # 🏡 Bem-vindos ao meu GitHub — é como *The Sims*, só que com código! 🎮📚  
 👋 Oi! Eu sou a SARA, entusiasta de programação, explorando os mundos de TypeScript e Python, com um amor eterno por livros e pelas infinitas possibilidades de *The Sims*.
 
@@ -21,20 +25,14 @@
 ![React](https://img.shields.io/badge/React-8E44AD?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4D03F?style=for-the-badge&logo=javascript&logoColor=black)
 
+<img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=27AE60" width="50px" />
+<img src="https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=mysql&logoColor=1ABC9C" width="40px" />
+<img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5&logoColor=E67E22" width="50px" />
+<img src="https://img.shields.io/badge/-CSS3-ffffff?style=flat&logo=css3&logoColor=2980B9" width="40px" />
+<img src="https://img.shields.io/badge/-DOM-ffffff?style=flat&logo=w3c&logoColor=16A085" width="40px" />
+<img src="https://img.shields.io/badge/-Scrum-ffffff?style=flat&logo=trello&logoColor=7D3C98" width="50px" />
+
 </div>
-
----
-
-## 💾 Outras Ferramentas e Tecnologias  
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js&logoColor=27AE60" />
-<img src="https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=mysql&logoColor=1ABC9C" />
-<img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5&logoColor=E67E22" />
-<img src="https://img.shields.io/badge/-CSS3-ffffff?style=flat&logo=css3&logoColor=2980B9" />
-<img src="https://img.shields.io/badge/-DOM-ffffff?style=flat&logo=w3c&logoColor=16A085" />
-<img src="https://img.shields.io/badge/-Scrum-ffffff?style=flat&logo=trello&logoColor=7D3C98" />
 
 </div>
 
@@ -61,9 +59,9 @@
 
 Projetos focados em HTML, CSS, JavaScript e React.  
 
-- 🏡 **Landing Page Interativa** — Um site dinâmico inspirado em design minimalista  
-- 🎨 **Portfólio Pessoal** — Uma vitrine dos meus trabalhos com uma pegada moderna  
-- 💡 **App de Ilustrações** — Criando visuais e animações interativas  
+  -
+  -
+  -
 
 ---
 
@@ -73,9 +71,10 @@ Projetos focados em HTML, CSS, JavaScript e React.
 
 Projetos de automação, manipulação de dados e scripts úteis.  
 
-- ⚙️ **Gerador de Senhas Seguras** — Um script simples para criar senhas aleatórias  
-- 🔎 **Analisador de Dados** — Extração e tratamento de informações de arquivos CSV  
-- 🤖 **Simulador de Plumbot** — Um bot interativo inspirado no universo Sims  
+- ⚙️ **LexiGPT** — Um professor(bot) focado no ensino do inglês. (link repositório)
+- 🔎 **VisionAI Lab** — Inteligência artificial para visualização e interpretação de dados de arquivos CSV. (link repositório) 
+- 🤖 **TaskWizard** — Um mago digital que lida com tarefas repetitivas. (link repositório)
+
 
 ---
 
