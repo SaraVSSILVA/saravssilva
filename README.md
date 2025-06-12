@@ -1,4 +1,4 @@
-# 🏡 Bem-vinda ao meu GitHub — é como *The Sims*, só que com código! 🎮📚  
+# 🏡 Bem-vindos ao meu GitHub — é como *The Sims*, só que com código! 🎮📚  
 👋 Oi! Eu sou a SARA, entusiasta de programação, explorando os mundos de TypeScript e Python, com um amor eterno por livros e pelas infinitas possibilidades de *The Sims*.
 
 ---
