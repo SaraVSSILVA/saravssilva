@@ -71,7 +71,7 @@ Projetos focados em HTML, CSS, JavaScript e React.
 
 Projetos de automação, manipulação de dados e scripts úteis.  
 
-- ⚙️ **LexiGPT** — Um professor(bot) focado no ensino do inglês. (link repositório)
+- ⚙️ **LexiGPT** — Uma versão GPT voltada para educação de idiomas.(link repositório)
 - 🔎 **VisionAI Lab** — Inteligência artificial para visualização e interpretação de dados de arquivos CSV. (link repositório) 
 - 🤖 **TaskWizard** — Um mago digital que lida com tarefas repetitivas. (link repositório)
 
