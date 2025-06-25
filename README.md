@@ -74,8 +74,8 @@ Projetos focados em HTML, CSS, JavaScript e React.
 Projetos de automação, manipulação de dados e scripts úteis.  
 
 - ⚙️ **CodeSensei** — Uma versão Gemini voltada para educação. (https://github.com/SaraVSSILVA/CodeSensei.git)
-- 🔎 **VisionAI Lab** — Inteligência artificial para visualização e interpretação de dados de arquivos CSV. (link repositório) 
-- 🤖 **TaskWizard** — Um mago digital que lida com tarefas repetitivas. (link repositório)
+- 🔎 **SimDash** — Inteligência artificial para visualização e interpretação de dados de arquivos CSV(em construção...). ([link repositório](https://github.com/SaraVSSILVA/SimDash.git) 
+- 🤖 **AutoBot** — Um mago digital que lida com tarefas repetitivas. ([link repositório](https://github.com/SaraVSSILVA/autobot.git))
 
 
 ---
