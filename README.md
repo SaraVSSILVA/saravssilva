@@ -12,17 +12,16 @@
 
 </div>
 
-# 🏡 Bem-vindos ao meu GitHub — é como *The Sims*, só que com código! 🎮📚  
-👋 Oi! Eu sou a SARA, entusiasta de programação, explorando os mundos de TypeScript e Python, com um amor eterno por livros e pelas infinitas possibilidades de *The Sims*.
+# 🎮 Bem-vindos ao meu GitHub — é como The Sims, só que com código!
 
----
+<img align="right" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc1bzV3bWk2NTR5dmk3cGx5aW1vaXdodnNnb2ozd3N2bm0zNjJ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd3ugTL4g37eib6H9k/giphy.gif" alt="sims coding gif"/>
 
-## 📦 Sobre Mim  
 
-- 💻 Desenvolvedora apaixonada por tecnologia e criatividade  
-- 🎮 Fã de *The Sims* (sim, já construí mais casas do que escrevi funções... por enquanto)  
-- 📚 Leitora dedicada — de distopias futuristas a romances góticos  
-- 🎯 Buscando transformar o aprendizado em projetos divertidos e funcionais  
+### Oi! Eu sou a **SARA** 👋  
+🌱 Explorando mundos com **TypeScript**, **Python** e muita curiosidade  
+📚 Leitora de distopias e sonhadora de universos ficcionais  
+🎨 Dev que acredita que código também é arte  
+🎯 Foco atual: Front-end (com escapadas pro back), automações criativas e projetos educacionais
 
 ---
 <div align="center">
@@ -43,13 +42,6 @@
 ## 📖 Lendo Agora  
 
 ![Lendo agora](https://img.shields.io/badge/Lendo-Endgame%3A%20A%20Chave%20do%20C%C3%A9u-58D68D?style=for-the-badge&logo=bookstack&logoColor=black)
-
----
-
-## 🎮 Status Atual  
-
-> 🟢 Código fluindo como um Sim inspirado!  
-> 🔵 Aprendendo novos truques em TypeScript e React!  
 
 ---
 
